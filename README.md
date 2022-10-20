@@ -1,2 +1,2 @@
 # FTRN
-Official Code for Continuous Video Frame Interpolation
+Code will be released here after the acception of the paper.
